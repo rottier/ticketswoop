@@ -1,0 +1,15 @@
+{
+  "name": "ticketswoop",
+  "version": "1.0.0",
+  "description": "Bot for obtaining tickets on TicketSwap",
+  "main": "index.js",
+  "author": "rottier",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "dotenv": "^16.4.5",
+    "puppeteer": "^23.2.1"
+  }
+}
